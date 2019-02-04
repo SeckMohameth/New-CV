@@ -1,2 +1,2 @@
 # New-CV
-Second cv project
+Second cv project from Udemy course
